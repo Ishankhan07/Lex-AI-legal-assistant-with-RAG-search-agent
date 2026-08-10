@@ -1,0 +1,14 @@
+streamlit
+langchain
+langchain-community
+pymupdf
+faiss-cpu
+numpy
+pandas
+sentence-transformers
+transformers
+torch
+python-dotenv
+tavily-python
+accelerate
+huggingface-hub

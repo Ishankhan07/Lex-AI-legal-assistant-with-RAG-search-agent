@@ -1,0 +1,15 @@
+.env
+.env.*
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+vector_db/
+data/legal_docs/
+data/legal_docs_backup/
+data/User_upload_pdfs/
+*.pdf
+.vscode/
+.DS_Store
+Thumbs.db
