@@ -1,1 +1,0 @@
-# Lex-AI-legal-assistant-with-RAG-search-agent
